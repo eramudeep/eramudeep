@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 
 ## :sassy_man:  About me
-- :computer: I am a `React Native Eng` at  Binaryveda
+- :computer: I am a `React Native Eng` at  Kotak Mahindra Bank
 - :computer: I am a `PHP` Developer
 - :trophy: `Youtuber` as Well
 - :technologist: I love using Software as a solution for every `Problem`
